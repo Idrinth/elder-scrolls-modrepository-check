@@ -1,0 +1,18 @@
+files:
+- '**/*.md'
+- '!**/node_modules/**/*.md'
+language: en-GB
+plugins:
+- spell
+- indefinite-article
+- repeated-words
+quiet: true
+dictionaries:
+- _dictionaries/bowen.txt
+- _dictionaries/caryalind.txt
+- _dictionaries/clockwork.txt
+- _dictionaries/elder-scrolls.txt
+- _dictionaries/fantasy.txt
+- _dictionaries/idrinth.txt
+- _dictionaries/xelzaz.txt
+- _dictionaries/sounds.txt

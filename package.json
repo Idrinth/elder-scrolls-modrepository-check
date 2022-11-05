@@ -1,0 +1,16 @@
+{
+  "name": "@idrinth/elder-scrolls-modrepository-check",
+  "type": "module",
+  "dependencies": {
+    "spellchecker-cli": "*",
+    "retext-spell": "*",
+    "retext-indefinite-article": "*",
+    "retext-repeated-words": "*",
+    "markdownlint-cli2": "*"
+  },
+  "scripts": {
+    "spelling": "spellchecker",
+    "markdown": "markdownlint-cli2",
+    "duplicates": "node microchecks/duplicate-names.js"
+  }
+}

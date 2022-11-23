@@ -56,3 +56,5 @@ warhorns
 intrigant
 tribesfolk
 2E
+frontline
+warcry

@@ -58,3 +58,6 @@ tribesfolk
 2E
 frontline
 warcry
+unwhetted
+sunkissed
+praiseful

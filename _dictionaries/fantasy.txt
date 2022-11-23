@@ -53,3 +53,6 @@ lycantropy
 lycantropic
 warhorn
 warhorns
+intrigant
+tribesfolk
+2E

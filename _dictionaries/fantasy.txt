@@ -10,6 +10,7 @@ axe
 lich
 Lich
 lycanthropic
+missenchant
 battlemage
 Greatsword
 greatsword

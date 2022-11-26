@@ -11,6 +11,7 @@ lich
 Lich
 lycanthropic
 misenchant
+misenchantment
 battlemage
 Greatsword
 greatsword

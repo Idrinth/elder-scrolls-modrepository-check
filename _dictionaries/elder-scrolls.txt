@@ -373,8 +373,8 @@ De'nt
 Arlinve
 Arlinve's
 Isidor
-Arlinve
-Arlinve's
+Malkoran
+Malkoran's
 Jephre's
 Sheogorath
 Zenithar
@@ -491,3 +491,5 @@ Witchmist
 Kynesgrove
 Gleda
 Nedes
+Meridia's
+

@@ -5,6 +5,7 @@ Vingalmo
 Bosmer
 Solaf
 Kodlak
+Kvatch
 daedra-loving
 Baar
 Ysolda

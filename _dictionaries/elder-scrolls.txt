@@ -649,3 +649,15 @@ wyvern
 pickaxe
 hearted
 noone
+Thorald
+Thorald's
+Avulstein
+Avulstein's
+Fralia
+Fralia's
+Eorlund
+Eorlund's
+Olfina
+Olfina's
+Idolaf
+Idolaf's
